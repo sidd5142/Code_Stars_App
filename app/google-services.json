@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786040100679",
+    "project_id": "security-ff554",
+    "storage_bucket": "security-ff554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786040100679:android:c32d04dba58d691d251e62",
+        "android_client_info": {
+          "package_name": "com.example.security"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuKQD6LleT0VtQc4tI9IN-aJFM2FqaN-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
